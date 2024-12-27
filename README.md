@@ -35,3 +35,8 @@ I am always eager to explore and learn new technologies, frameworks, and languag
 
 ### 💡 Let's Build Something Amazing Together!  
 I am excited to tackle new challenges and create impactful solutions. Feel free to connect!
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kojish2018&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
+
