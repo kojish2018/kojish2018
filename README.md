@@ -40,3 +40,4 @@ I am excited to tackle new challenges and create impactful solutions. Feel free 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kojish2018&layout=compact)]
 (https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kojish2018&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
